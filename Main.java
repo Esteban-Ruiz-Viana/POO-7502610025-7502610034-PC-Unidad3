@@ -4,8 +4,8 @@ public class Main {
     public static void main(String[] args) {
 
         Usuario usuario = new Usuario(
-                "Sebastian",
-                "sebastian@gmail.com",
+                "Fernanda",
+                "fernanda@gmail.com",
                 "123456"
         );
 
